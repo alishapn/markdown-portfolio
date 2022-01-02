@@ -1,3 +1,5 @@
-Emoji
-Ordered Lists
-Unordered Lists
+❤️	:heart:
+👍	:+1:
+😄	:smile:
+✨	:sparkles:
+🎉	:tada:
